@@ -1,0 +1,10 @@
+D:\Project\IELTSDropWord\IELTSDropWord\bin\Debug\IELTSDropWord.exe
+D:\Project\IELTSDropWord\IELTSDropWord\bin\Debug\IELTSDropWord.pdb
+D:\Project\IELTSDropWord\IELTSDropWord\bin\Debug\IELTSDropWord.xml
+D:\Project\IELTSDropWord\IELTSDropWord\obj\Debug\IELTSDropWord.vbprojResolveAssemblyReference.cache
+D:\Project\IELTSDropWord\IELTSDropWord\obj\Debug\IELTSDropWord.Form1.resources
+D:\Project\IELTSDropWord\IELTSDropWord\obj\Debug\IELTSDropWord.Resources.resources
+D:\Project\IELTSDropWord\IELTSDropWord\obj\Debug\IELTSDropWord.vbproj.GenerateResource.Cache
+D:\Project\IELTSDropWord\IELTSDropWord\obj\Debug\IELTSDropWord.exe
+D:\Project\IELTSDropWord\IELTSDropWord\obj\Debug\IELTSDropWord.xml
+D:\Project\IELTSDropWord\IELTSDropWord\obj\Debug\IELTSDropWord.pdb
